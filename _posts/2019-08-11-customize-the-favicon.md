@@ -1,9 +1,9 @@
 ---
 title: Mango
 author: tanvir
-date: 2019-08-11 00:34:00 +0800
-categories: [Blogging, Tutorial]
-tags: [favicon]
+date: 2023-07-22 01:48:00 +0600
+categories: [Hello,World!]
+tags: [hello,world]
 ---
 
 # hello world!
