@@ -1,7 +1,7 @@
 ---
 title: Amrapali mango production highest among all varieties
 author: thedailystar
-date: 2023-07-22 00:25:00 +6000
+date: 2019-08-11 00:34:00 +0800
 categories: [Mango, Fruits]
 tags: [agriculture,food production,farmer] #TAG names should be lowercase
 ---
