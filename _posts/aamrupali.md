@@ -1,13 +1,12 @@
 ---
-   title: Amrapali mango production highest among all varieties
-   date: 2023-07-22 12:25:00 -500
-   categories: [Mango,Fruits]
-   tags: [agriculture,food production,farmer] #TAG names always should be lowercas
-   
-   ---
-  ![A farmer plucking mango](https://tds-images.thedailystar.net/sites/default/files/styles/big_202/public/images/2023/07/21/amrapuli.jpg)
-  ###### Some 23.5 lakh tonnes of mango were produced in Bangladesh in fiscal year 2021-22, according to data from the Department of Agricultural Extension. Photo: Star
-  ##### Sukanta Halder and Laltanlian Pangkhua
+title: Amrapali mango production highest among all varieties
+date: 2023-07-22 12:25:00 -500
+categories: [Mango,Fruits]
+tags: [agriculture,food production,farmer] #TAG names should be lowercase
+---
+![A farmer plucking mango](https://tds-images.thedailystar.net/sites/default/files/styles/big_202/public/images/2023/07/21/amrapuli.jpg)
+###### Some 23.5 lakh tonnes of mango were produced in Bangladesh in fiscal year 2021-22, according to data from the Department of Agricultural Extension. Photo: Star
+##### Sukanta Halder and Laltanlian Pangkhua
 Just a decade ago, Fazli, Himsagar, Langra and Gopalbhog mangoes were the most popular varieties of the fruit among consumers in Bangladesh.
 But now, they have been replaced by the Amrapali, or BARI Mango-3, variety.
 One in every four, or 25 per cent, of all mangoes produced in the country are now of the Amrapali variety, the cultivation of which has grown at the fastest clip in the last decade.
